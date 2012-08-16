@@ -1,0 +1,6 @@
+inherit sugar
+
+
+HOMEPAGE="http://wiki.sugarlabs.org/go/Activities/ConozcoAmerica"
+SRC_URI="http://download.sugarlabs.org/activities/4464/i_know_america-${PV}.xo"
+SRC_DIR="${ORIG_PN}.activity"
