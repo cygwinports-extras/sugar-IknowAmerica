@@ -1,3 +1,6 @@
+NAME="sugar-IknowAmerica"
+VERSION=7
+RELEASE=1
 inherit sugar
 
 
